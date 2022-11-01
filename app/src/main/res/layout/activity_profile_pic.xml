@@ -61,6 +61,7 @@
 
 
     <TextView
+        android:id="@+id/btn_skip"
         android:visibility="visible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -75,6 +76,7 @@
         app:layout_constraintEnd_toEndOf="parent"/>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/btn_skip1"
         android:visibility="invisible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

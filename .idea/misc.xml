@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_email_check.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_forget.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_main_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/PrakMobile/NgobrolKuy/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
